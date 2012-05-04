@@ -1,6 +1,6 @@
 ##DESCRIPTION
 
-It is a series of utilities for Android development, aiming at helping developers coding more easy and fast. 
+It is a series of utilities for Android development, aiming at helping developers coding more easily and faster. 
 
 ##REQUIREMENTS
 
