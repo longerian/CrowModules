@@ -1,0 +1,11 @@
+##DESCRIPTION
+
+It is a series of utilities for Android development, aiming at helping developers coding more easy and fast. 
+
+##REQUIREMENTS
+
+* Android 1.5 +
+
+##LICENSE
+
+Copyright (C) 2012 Crow Hou (crow_hou@126.com)
