@@ -1,6 +1,14 @@
 ##DESCRIPTION
 
-It is a series of utilities for Android development, aiming at helping developers coding more easily and faster. 
+It is a series of utilities for Android development, aiming at helping developers coding more easily and faster. It contains five major modules as described below:
+
+1. CrowUtil, provides common utilities such as loading bitmnap, downloading file, reading or writing files, compressing file with zip compression etc.
+2. CrowCache, used to make images or data from remote web or somewhere else cachable, reduces both time consumed to fetch those resource and mobile data usage.
+3. CrowLoader, used to request data asynchronously and make them cachable according to users' choice.
+4. CrowApi, provides API requesting framework, encapsulates the details of net working connection process, data parsing process, data caching process and so on, which makes users just need to focus on their business.
+5. CrowWeibo, provides common interface to connect your app to Sina Weibo, Tecent Weibo, Kaixin and Renren.
+
+For more details, check API docs in each module's project and wikis.
 
 ##REQUIREMENTS
 
